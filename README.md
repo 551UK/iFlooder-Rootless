@@ -1,6 +1,6 @@
 # iFlooder (Rootless)
 
-iFlooder tweak reworked and remade for iOS 16.x and Rootless builds. This spams/floods SMS & iMessages at 1 message per 0.1 seconds indefinitely until the stop button is it.
+iFlooder tweak reworked and remade for iOS 16.x and Rootless builds. This spams/floods SMS & iMessages at 1 message per 0.1 seconds indefinitely until the stop button is hit.
 
 The tweak places an envelope icon in the top-right area of the Messages conversation header, besides the Facetime button. Tapping the icon opens the iFlooder panel, where start the flooding/spamming.
 
