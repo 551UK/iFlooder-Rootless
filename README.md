@@ -4,7 +4,7 @@ iFlooder tweak reworked and remade for iOS 16.x and Rootless builds. This spams/
 
 The tweak places an envelope icon in the top-right area of the Messages conversation header, besides the Facetime button. Tapping the icon opens the iFlooder panel, where you can start the flooding/spamming.
 
-Be careful with this, if you are SMS bombing your network could restrict your network access and block your service (ask me how i know). I use it this strictly on iMessage and disable the setting for automatic switch over.. Other networks/carriers might not care..... Use at your own risk!!!!!
+Be careful with this, if you are SMS bombing your network could restrict your network access and block your service (ask me how i know). I use it this strictly on iMessage personally and disable the setting for automatic switch over.. Other networks/carriers might not care..... Use at your own risk!!!!!
 
 ## Features
 
