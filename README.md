@@ -1,8 +1,8 @@
 # iFlooder (Rootless)
 
-iFlooder is a rootless iOS 16.x tweak for the Messages app that adds a message flooder directly to an existing one-to-one conversation.
+iFlooder is a rootless iOS 16.x tweak for the Messages app that adds a message flooder/SMS bomber directly to an existing one-to-one conversation.
 
-The tweak places an envelope icon in the top-right area of the Messages conversation header, beside the video-call button. Tapping the icon opens the iFlooder panel, where you can choose how messages are generated and start or stop a run.
+The tweak places an envelope icon in the top-right area of the Messages conversation header, besides the Facetime button. Tapping the icon opens the iFlooder panel, where start the flooding/spamming.
 
 ## Features
 
